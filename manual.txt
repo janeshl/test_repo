@@ -1,8 +1,1 @@
-Hello this is test data
-Append new line as new req
-hii mithun
-<<<<<<< HEAD
-where r u 
-=======
-where r u hgsdgnsdjgdsgjd
->>>>>>> jan
+This is jan2
